@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(63, 181, 202);
+  }
+  em {
+    color: blue;
+  }
+  img{
+    float: right;
+    height: 450px;
+    width: 450px;
+  }
+  
+  h1{
+    padding-right: 400px;
+    color: darkorchid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  h2{
+    color: blue;
+    padding-right: 100px;
+  }
+   ul{
+     font-style: italic;
+  
+      font-weight: bold;
+      font-family:sans-serif;
+   }
+   h3{
+     color: blue;
+     font-family: serif;
+   }
+  
+   p{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-style: italic;
+   }
+  img{
+  clip-path: circle();
+  }
