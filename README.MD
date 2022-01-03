@@ -1,5 +1,5 @@
-# miski Biixi Tahlil
-## Author Name : Miski Biixi Tahliil
+# mulki Ahmed Ali
+## Author Name : Mulk Ahmed Ali
 ## this project website contains 
 * Asigment project 
 * Educational school information
